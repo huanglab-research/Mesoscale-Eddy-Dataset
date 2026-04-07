@@ -1,6 +1,6 @@
 # Mesoscale-Eddy-Dataset
 
-We constructed a multimodal datasets for **mesoscale eddy detection**, each targeting a different marine region. The dataset integrate multiple modal data, including **Sea Level Anomaly (SLA)**, **Sea Surface Height (SSH)**, **Sea Surface Temperature (SST)**, and **Chlorophyll-a (CHL) concentration**, thereby providing complementary information for eddy detection. The dataset contains a total of **341,500** mesoscale eddies, including **173,651** Anticyclone and **167,849** cyclone.
+We constructed a benchmark dataset for **mesoscale eddy detection** that integrates multimodal data. Specifically, the dataset combines **sea level anomaly (SLA)**, **sea surface height (SSH)**, **sea surface temperature (SST)**, and **chlorophyll-a (CHL) concentration**, thereby providing complementary information for eddy detection. Overall, the dataset comprises **341,500** mesoscale eddies, including **173,651** anticyclone eddies and **167,849** cyclone eddies.
 
 ## Data Specifications
 
@@ -50,7 +50,7 @@ Here are two examples of raw unannotated and annotated data.
 # Multi-Task Applications
 
 * The dataset can be used for multimodal mesoscale eddy object detection tasks.
-* small object detection
+* Based on the area ratio of the images, small objects account for more than two-thirds (105,056 objects) of this dataset, making it suitable for small object detection.
 * cross-domain object detection
 
 <br>
