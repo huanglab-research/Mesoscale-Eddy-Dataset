@@ -21,7 +21,7 @@ Each dataset contains 2,000 images in total. Among them, the first 1,635 images 
 | Ocean     | Spatial coverage      | Temporal coverage     |
 | ---       | ---                   | ---                   |
 | Area-1    | 5°-37°N, 104°-136°E   | 2016.8.19-2022.2.9    |
-| Area-2    | 5°-25°N, 105°-121°E   | 2016.8.19-2022.2.9    |
+| Area-2    | 5°-23°N, 105°-121°E   | 2016.8.19-2022.2.9    |
 | Area-3    | 23°-34°N, 117°-131°E  | 2016.8.19-2022.2.9    |
 | Area-4    | 19°-51°N, 47°-79°W    | 2017.12.16-2023.6.7   |
 
