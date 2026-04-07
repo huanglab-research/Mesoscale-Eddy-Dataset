@@ -51,9 +51,9 @@ Here are some examples of multimodal data, along with illustrative results for o
 
 # Multi-Task Applications
 
-* The dataset can be used for multimodal mesoscale eddy object detection tasks.
-* Based on the area ratio of the images, small objects account for more than **2/3** (**105,056** objects) of this dataset, making it suitable for small object detection.
-* cross-domain object detection
+* **multimodal object detection**: This dataset employs **SLA** as the primary modality and is designed for multimodal mesoscale eddy detection.
+* **small object detection**: Based on the area ratio of the images, small objects account for more than **2/3** (**105,056** objects) of this dataset, making it suitable for small object detection.
+* **cross-domain object detection**: 
 
 <br>
 
