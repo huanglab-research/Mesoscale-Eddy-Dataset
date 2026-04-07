@@ -33,7 +33,7 @@ Each region in the dataset contains **2,000** images in total. Among them, the f
 | ---       | ---            | ---        | ---            | ---        | ---            | ---        |
 |           | Anticyclone    | Cyclone    | Anticyclone    | Cyclone    | Anticyclone    | Cyclone    |
 | Area-1    | 80,190         | 76,747     | 13,060         | 12,681     | 93,250         | 89,428     |
-| Area-2    | 22,840         | 21,521     | 3,715          | 3,728      | 26,555         | 24,863     |
+| Area-2    | 20,548         | 19,503     | 3,375          | 3,422      | 23,923         | 22,925     |
 | Area-3	  | 20,734         | 18,599     | 3,638          | 3,342      | 24,372         | 21,941     |
 | Area-4    | 66,670         | 64,444     | 13,731         | 13,977     | 80,401         | 78,421     |
 
