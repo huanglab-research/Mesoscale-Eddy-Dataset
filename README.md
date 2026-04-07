@@ -41,11 +41,11 @@ Here are two examples of raw unannotated and annotated data.
 
 ### Area-1
 
-![plot]
+![](./china_sea.png)
 
 ### Area-4
 
-![plot]
+![](./atlantic.png)
 
 # Multi-Task Applications
 
