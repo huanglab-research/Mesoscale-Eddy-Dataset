@@ -51,9 +51,11 @@ Here are some examples of multimodal data, along with illustrative results for o
 
 # Multi-Task Applications
 
-* **multimodal object detection**: This dataset employs **SLA** as the primary modality and is designed for multimodal mesoscale eddy detection.
-* **small object detection**: Based on the area ratio of the images, small objects account for more than **2/3** (**105,056** objects) of this dataset, making it suitable for small object detection.
-* **cross-domain object detection**: 
+* **Multimodal Object Detection**: The dataset adopts **SLA** as the primary modality and can be further enriched by incorporating additional modalities, such as **SSH**, **SST**, and **CHL**, to facilitate multimodal object detection of mesoscale eddies.
+
+* **Small Object Detection**: Based on the area ratio of the images, small objects account for more than **2/3** (**105,056** objects) of this dataset, making it suitable for small object detection.
+
+* **Cross-domain Object Detection**: The cross-domain object detection benchmark is established under two primary experimental settings: **unsupervised domain adaptation** and **cross-domain few-shot object detection**. In the unsupervised domain adaptation setting, Area-2 is utilized as the source domain and Area-3 as the target domain, forming a cross-sea-domain evaluation protocol. In the cross-domain few-shot object detection setting, natural-scene images (e.g., MS COCO dataset) are adopted as the source domain, while the limited annotated samples from Area-2 and Area-3 are regarded as target domains, thereby constituting a cross-scene-domain evaluation protocol.
 
 <br>
 
