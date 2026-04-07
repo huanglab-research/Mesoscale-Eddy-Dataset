@@ -16,7 +16,7 @@ We constructed a benchmark dataset for **mesoscale eddy detection** that integra
 
 * **Area-4** covers the region bounded by **19°N-51°N** and **47°W-79°W**.
 
-Each region in the dataset contains **2,000** images in total. Among them, the first **1,635** images are allocated to the training set, and the remaining **365** images are used as the test set. Detailed information is summarized in the table below.
+
 
 | Ocean     | Spatial coverage      | Temporal coverage     |
 | ---       | ---                   | ---                   |
@@ -25,7 +25,9 @@ Each region in the dataset contains **2,000** images in total. Among them, the f
 | Area-3    | 23°-34°N, 117°-131°E  | 2016.8.19-2022.2.9    |
 | Area-4    | 19°-51°N, 47°-79°W    | 2017.12.16-2023.6.7   |
 
-The instance sizes for these datasets are presented in the table below.
+
+Each region in the dataset contains **2,000** images in total. Among them, the first **1,635** images are allocated to the training set, and the remaining **365** images are used as the test set. The instance sizes of the datasets are summarized in the table below.
+
 
 | Ocean     | Train          |            | Test           |            | Total          |            | 
 | ---       | ---            | ---        | ---            | ---        | ---            | ---        |
