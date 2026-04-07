@@ -12,9 +12,9 @@ We constructed a benchmark dataset for **mesoscale eddy detection** that integra
 
 ## Study Areas
 
-* The Area-1 covers the region from **5°N** to **37°N** and **104°E** to **136°E**. This subset is further divided into two subregions: Area-2 and Area-3.
+* **Area-1** covers the region bounded by **5°N-37°N** and **104°E-136°E**, and is further divided into two subregions: **Area-2** and **Area-3**.
 
-* The Area-4 covers the region from **19°N** to **51°N** and **47°W** to **79°W**. 
+* **Area-4** covers the region bounded by **19°N-51°N** and **47°W-79°W**.
 
 Each dataset contains **2,000** images in total. Among them, the first **1,635** images are used for training, while the remaining **365** images are reserved for testing. Detailed information is provided in the table below.
 
