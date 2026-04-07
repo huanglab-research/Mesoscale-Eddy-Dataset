@@ -6,17 +6,17 @@ We constructed a benchmark dataset for **mesoscale eddy detection** that integra
 
 * **Spatiotemporal Resolution**: The multimodal data have a spatial resolution of **0.25° × 0.25°** and a daily temporal resolution.
 
-* **Temporal Coverage**: Each dataset covers 2,000 consecutive days.
+* **Temporal Coverage**: Each dataset covers **2,000** consecutive days.
 
 * **Dimensions**: The original data dimensions of 129 × 129 pixels have been upsampled by a factor of five to a final resolution of **645 × 645** pixels.
 
 ## Study Areas
 
-* The Area-1 covers the region from 5°N to 37°N and 104°E to 136°E. This subset is further divided into two subregions: Area-2 and Area-3.
+* The Area-1 covers the region from **5°N** to **37°N** and **104°E** to **136°E**. This subset is further divided into two subregions: Area-2 and Area-3.
 
-* The Area-4 covers the region from 19°N to 51°N and 47°W to 79°W. 
+* The Area-4 covers the region from **19°N** to **51°N** and **47°W** to **79°W**. 
 
-Each dataset contains 2,000 images in total. Among them, the first 1,635 images are used for training, while the remaining 365 images are reserved for testing. Detailed information is provided in the table below.
+Each dataset contains **2,000** images in total. Among them, the first **1,635** images are used for training, while the remaining **365** images are reserved for testing. Detailed information is provided in the table below.
 
 | Ocean     | Spatial coverage      | Temporal coverage     |
 | ---       | ---                   | ---                   |
@@ -27,9 +27,9 @@ Each dataset contains 2,000 images in total. Among them, the first 1,635 images 
 
 The instance sizes for these datasets are presented in the table below.
 
-| Ocean     | Train         |           | Test          |           | Total         |           | 
-| ---       | ---           | ---       | ---           | ---       | ---           | ---       |
-|           | Anticyclone   | Cyclone   | Anticyclone   | Cyclone   | Anticyclone   | Cyclone   |
+| Ocean     | Train          |            | Test           |            | Total          |            | 
+| ---       | ---            | ---        | ---            | ---        | ---            | ---        |
+|           | Anticyclone    | Cyclone    | Anticyclone    | Cyclone    | Anticyclone    | Cyclone    |
 | Area-1    | 80,190         | 76,747     | 13,060         | 12,681     | 93,250         | 89,428     |
 | Area-2    | 22,840         | 21,521     | 3,715          | 3,728      | 26,555         | 24,863     |
 | Area-3	  | 20,734         | 18,599     | 3,638          | 3,342      | 24,372         | 21,941     |
@@ -50,7 +50,7 @@ Here are two examples of raw unannotated and annotated data.
 # Multi-Task Applications
 
 * The dataset can be used for multimodal mesoscale eddy object detection tasks.
-* Based on the area ratio of the images, small objects account for more than two-thirds (105,056 objects) of this dataset, making it suitable for small object detection.
+* Based on the area ratio of the images, small objects account for more than **2/3** (**105,056** objects) of this dataset, making it suitable for small object detection.
 * cross-domain object detection
 
 <br>
