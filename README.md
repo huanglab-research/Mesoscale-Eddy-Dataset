@@ -39,7 +39,7 @@ Each region in the dataset contains **2,000** images in total. Among them, the f
 
 # Samples
 
-Here are two examples of raw unannotated and annotated data.
+Here are some examples of multimodal data, along with illustrative results for object detection and semantic segmentation.
 
 ### Area-1
 
