@@ -1,4 +1,4 @@
-# Ocean Eddy (Mesoscale Eddy) Dataset
+# Ocean Eddy Dataset (Mesoscale Eddy Dataset)
 
 We constructed an ocean eddy dataset primarily comprising mesoscale eddies, with multimodal data integrated to characterize each eddy. Specifically, the dataset combines **sea level anomaly (SLA)**, **sea surface height (SSH)**, **sea surface temperature (SST)** and **chlorophyll-a (CHL) concentration**, thereby providing complementary information for eddy detection. Overall, the dataset comprises **380,272** mesoscale eddies, including **193,115** anticyclone eddies and **187,157** cyclone eddies.
 
